@@ -1,0 +1,20 @@
+body {
+    background-color: #f1f1f1;
+    color: black;
+    font-family: Horizon, sans-serif;
+}
+
+h1,
+h2 {
+    color: red;
+}
+
+input,
+select,
+textarea,
+button {
+    display: block;
+    margin: 8px 0 16px;
+    padding: 8px;
+    font-family: Horizon, sans-serif;
+}
